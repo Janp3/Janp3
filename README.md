@@ -1,4 +1,4 @@
-
+## Hi, I'm Jean.
 <div align="center">
   <a href="https://github.com/janp3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janp3&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
