@@ -9,8 +9,6 @@
   <img align="center" alt="Janp3-Csharp" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Janp3-Csharp" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt="Janp3-Csharp" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-
-   <a href="https://www.linkedin.com/in/jean-costa-goncalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   
 </div>
