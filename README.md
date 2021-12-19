@@ -9,6 +9,5 @@
   <img align="center" alt="Janp3-Csharp" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Janp3-Csharp" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt="Janp3-Csharp" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <a href = "mailto:jean.c.drawing@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
