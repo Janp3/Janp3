@@ -1,8 +1,5 @@
 ## Hey, I'm Jean costa gonçalves or just Janp XD!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-
-
-
-🇧🇷 Born in Sao Paulo, Brazil <br> 
+<br> 
 
 <a href="https://github.com/Janp3" >
   <img align="center"   height="180em"  src="https://github-readme-stats.vercel.app/api?username=Janp3&show_icons=true&theme=dracula" /> 
