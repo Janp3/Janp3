@@ -21,7 +21,7 @@ A portifolio. I'm doing a lot of projects that I think interesting to get experi
 ### Here is some tecnologies that I already had some experiences  💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/.SQL-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/.SQL-5C2D91?style=for-the-badge&Color=white)
 ![DJango](https://img.shields.io/badge/DJango-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
