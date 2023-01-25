@@ -15,7 +15,7 @@ A portifolio. I'm doing a lot of projects that I think interesting to get experi
 
 ### What I'm learning now 📖
 
-🌱 Selenium for web scrapping
+🌱 React for front-end
 
 
 ### Here is some tecnologies that I already had some experiences  💻
